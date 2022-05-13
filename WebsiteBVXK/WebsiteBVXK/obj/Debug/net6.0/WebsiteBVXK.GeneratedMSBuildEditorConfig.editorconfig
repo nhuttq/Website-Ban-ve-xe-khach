@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebsiteBVXK
+build_property.RootNamespace = WebsiteBVXK
+build_property.ProjectDir = E:\45K211_05\UpdateWebsite\WebsiteBVXK\WebsiteBVXK\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\45K211_05\UpdateWebsite\WebsiteBVXK\WebsiteBVXK
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/Admin/QuanLyDonHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUXVhbkx5RG9uSGFuZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/Admin/QuanLyLichTrinh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUXVhbkx5TGljaFRyaW5oLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/Admin/QuanLyVe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUXVhbkx5VmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/Admin/QuanLyXe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUXVhbkx5WGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/Admin/ThongKeDoanhThu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGhvbmdLZURvYW5oVGh1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/Admin/TrangQuanLy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHJhbmdRdWFuTHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuZ05oYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/Hotline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG90bGluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/KhachHang/Giuong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2hhY2hIYW5nXEdpdW9uZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/KhachHang/GiuongLimousine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2hhY2hIYW5nXEdpdW9uZ0xpbW91c2luZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/KhachHang/ThongTinChuyenKhoan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2hhY2hIYW5nXFRob25nVGluQ2h1eWVuS2hvYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/KhachHang/ThongTinKhachHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2hhY2hIYW5nXFRob25nVGluS2hhY2hIYW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/KhachHang/ThongTinVe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2hhY2hIYW5nXFRob25nVGluVmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/KhachHang/TimVe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2hhY2hIYW5nXFRpbVZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/KhachHang/XacNhanThongTin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2hhY2hIYW5nXFhhY05oYW5UaG9uZ1Rpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/45K211_05/UpdateWebsite/WebsiteBVXK/WebsiteBVXK/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
